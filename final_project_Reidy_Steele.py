@@ -2,7 +2,6 @@ import unittest
 import random
 import time
 
-wehow
 class msa_pricing:
 
     def msa_brute_force(self, pricelist):
